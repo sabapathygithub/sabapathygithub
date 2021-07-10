@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Sabapathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabapathygithub&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabapathygithub)](https://github.com/sabapathygithub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabapathygithub&layout=compact)](https://github.com/sabapathygithub/github-readme-stats)
 
