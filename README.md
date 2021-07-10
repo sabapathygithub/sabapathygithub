@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sabapathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabapathygithub)](https://github.com/sabapathygithub/github-readme-stats)
+![Sabapathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabapathygithub&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabapathygithub)](https://github.com/sabapathygithub/github-readme-stats)
 
